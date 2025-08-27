@@ -1,9 +1,43 @@
-👋 Hi, I’m Rahul
-🔹 MCA Student | Web Developer | Problem Solver
-💻 Passionate about building dynamic and scalable web applications using Laravel, PHP, MySQL, JavaScript, HTML, and CSS.
-🚀 Currently sharpening my skills in React, Data Structures & Algorithms (DSA), and security in Linux.
-🎯 Focused on creating impactful projects, including my E-commerce website and Gym Management System.
+# 👋 Hi, I'm Rahul Kumar  
 
-📌 Tech Stack: Laravel, PHP, MySQL, JavaScript, React, HTML, CSS
-📌 Currently Learning: Frontend Development, DSA, and Security Features in Linux
-📌 Hackathon Participant | Open to Collaboration
+💻 MCA Student | Full Stack Developer | Tech Enthusiast  
+
+Welcome to my GitHub profile!  
+I’m passionate about building web applications, solving real-world problems with technology, and continuously learning new tools.  
+
+---
+
+## 🚀 About Me  
+- 🎓 Pursuing **Master of Computer Applications (MCA)** at Arka Jain University  
+- 🌱 Currently learning **MERN Stack** and improving **DSA in JavaScript**  
+- 🔧 Experienced with **HTML, CSS, JavaScript, PHP, MySQL, C, C++, Java**  
+- 👨‍💻 Worked on projects like **E-commerce Website, Gym Management System, Salesforce Clone, Portfolio Website**  
+- 🎯 Goal: To become a **Full Stack Developer** and crack top IT placements  
+
+---
+
+## 🛠️ Tech Stack  
+**Frontend:** HTML | CSS | JavaScript | React | Bootstrap | Tailwind CSS  
+**Backend:** PHP | Node.js | Express.js | Laravel  
+**Database:** MySQL | MongoDB  
+**Others:** Git | GitHub | VS Code  
+
+---
+
+## 📌 Featured Projects  
+- 🛒 [E-commerce Website](#) *(PHP + MySQL + JavaScript)*  
+- 🏋️ [Gym Management System](#) *(PHP + MySQL)*  
+- 💼 [Portfolio Website](https://ahulkumar1234.github.io/My-Portfolio/) *(HTML, CSS, JS, AOS)*  
+- 🌀 [Salesforce Clone](#) *(Frontend project)*  
+
+---
+
+## 🌐 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rahul-kumar-3990b618b)  
+- 🌍 [Portfolio](https://ahulkumar1234.github.io/My-Portfolio/)  
+- 🐙 [GitHub](https://github.com/ahulkumar1234)  
+- ✉️ Email: **rahulkumar8340527941@gmail.com**  
+
+---
+
+⭐️ *If you like my work, feel free to star my repositories and connect with me!* 🚀
