@@ -18,7 +18,7 @@ I’m passionate about building web applications, solving real-world problems wi
 
 ## 🛠️ Tech Stack  
 **Frontend:** HTML | CSS | JavaScript | React | Bootstrap | Tailwind CSS  
-**Backend:** Node.js | Express.js
+**Backend:** Node.js | Express.js |
 **Database:** MongoDB  
 **Others:** Git | GitHub | VS Code  
 
