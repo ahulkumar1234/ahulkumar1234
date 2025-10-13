@@ -10,7 +10,7 @@ I’m passionate about building web applications, solving real-world problems wi
 ## 🚀 About Me  
 - 🎓 Pursuing **Master of Computer Applications (MCA)** at Arka Jain University  
 - 🌱 Currently learning **MERN Stack** and improving **DSA in JavaScript**  
-- 🔧 Experienced with **HTML, CSS, JavaScript, PHP, MySQL, C, C++, Java**  
+- 🔧 Experienced with **HTML, CSS, JavaScript, Java**  
 - 👨‍💻 Worked on projects like **E-commerce Website, Gym Management System, Salesforce Clone, Portfolio Website**  
 - 🎯 Goal: To become a **Full Stack Developer** and crack top IT placements  
 
@@ -18,8 +18,8 @@ I’m passionate about building web applications, solving real-world problems wi
 
 ## 🛠️ Tech Stack  
 **Frontend:** HTML | CSS | JavaScript | React | Bootstrap | Tailwind CSS  
-**Backend:** PHP | Node.js | Express.js | Laravel  
-**Database:** MySQL | MongoDB  
+**Backend:** Node.js | Express.js
+**Database:** MongoDB  
 **Others:** Git | GitHub | VS Code  
 
 ---
