@@ -25,8 +25,8 @@ I’m passionate about building web applications, solving real-world problems wi
 ---
 
 ## 📌 Featured Projects  
-- 🛒 [E-commerce Website](#) *(PHP + MySQL + JavaScript)*  
-- 🏋️ [Gym Management System](#) *(PHP + MySQL)*  
+- 🛒 [E-commerce Website](#) *(MongoDB + Express + React + NodeJs)*  
+- 🏋️ [Gym Management System](#) *(HTML + CSS + JavaScript + Tailwind Css)*  
 - 💼 [Portfolio Website](https://ahulkumar1234.github.io/My-Portfolio/) *(HTML, CSS, JS, AOS)*  
 - 🌀 [Salesforce Clone](#) *(Frontend project)*  
 
