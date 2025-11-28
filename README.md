@@ -1,50 +1,69 @@
-# 👋 Hi, I'm **Rahul Kumar**
+<!-- ----------------------------------------------------- -->
+<!-- PREMIUM GITHUB PROFILE README FOR RAHUL KUMAR -->
+<!-- ----------------------------------------------------- -->
 
-💻 **Full Stack Developer — MERN Stack**  
-🚀 Passionate about building scalable web applications and modern user experiences.
+<h1 align="center">👋 Hi, I'm <b>Rahul Kumar</b></h1>
+<h3 align="center">💻 Full Stack Developer — MERN Stack</h3>
+<p align="center">🚀 Passionate about building scalable web applications and modern UI experiences.</p>
+
+---
+
+### 👀 Profile Views
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ahulkumar1234&label=Visitors&color=blue&style=flat" alt="profile views"/>
+</p>
 
 ---
 
 ## 🧾 About Me
 - 🎓 MCA Student — *Arka Jain University*
 - 🔥 Specializing in **MERN Stack (MongoDB, Express, React, Node.js)**
-- 💡 Strong in **JavaScript**, **REST APIs**, **Authentication**, **Responsive UI**
-- 🎯 Goal: **Full Stack Developer / MERN Stack Developer**
+- 💡 Good at **REST APIs, Authentication, Responsive UI & Backend Logic**
+- 🎯 Goal: **Full Stack Developer / MERN Developer**
 
 ---
 
 ## 🛠 Tech Stack
-**Frontend:** HTML • CSS • JavaScript • React • Bootstrap • Tailwind CSS  
-**Backend:** Node.js • Express.js  
-**Database:** MongoDB  
-**Tools:** Git • GitHub • VS Code • Postman  
+### 🚀 Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,tailwind,git,github,vscode,postman" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects (Pinned Style)
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🛒 **E-commerce Website** | Full-stack shopping platform | MERN |
-| 🏋️ **Gym Management System** | Gym admission + diet & workout plans | HTML, CSS, JS, Tailwind |
-| 💼 **Portfolio Website** | Personal portfolio with AOS animation | HTML, CSS, JS |
-| 🌀 **Salesforce Clone** | Pixel-perfect front-end clone | HTML, CSS, JS |
+| 🏋️ **Gym Management System** | Admission + workout + diet features | HTML, CSS, JS, Tailwind |
+| 💼 **Portfolio Website** | Personal portfolio with smooth animations | HTML, CSS, JS |
+| 🌀 **Salesforce Clone** | Pixel-perfect frontend clone | HTML, CSS, JS |
 
-🔗 *More exciting projects coming soon…*
+> 🔗 *Check pinned repos on my profile for live links & code.*
 
 ---
 
-## 📊 GitHub Stats
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahulkumar1234&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahulkumar1234&layout=compact&theme=tokyonight)
+## 📊 GitHub Analytics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ahulkumar1234&show_icons=true&theme=tokyonight" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahulkumar1234&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahulkumar1234&layout=compact&theme=tokyonight" height="160" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
-🔗 **LinkedIn:** https://www.linkedin.com/in/rahul-kumar-3990b618b  
-🌍 **Portfolio:** https://ahulkumar1234.github.io/My-Portfolio/  
-🐙 **GitHub:** https://github.com/ahulkumar1234  
-📩 **Email:** **rahulkumar8340527941@gmail.com**
+<p align="left">
+<a href="https://www.linkedin.com/in/rahul-kumar-3990b618b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
+<a href="https://ahulkumar1234.github.io/My-Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/></a>
+<a href="https://github.com/ahulkumar1234" target="_blank"><img src="https://img.shields.io/badge/GitHub-white?logo=github&style=for-the-badge"/></a>
+<a href="mailto:rahulkumar8340527941@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge"/></a>
+</p>
 
 ---
 
-⭐ *If you like my projects, consider giving a star — it motivates me!* 🚀
+### ⭐ Support
+💙 If you like my work, please **star my repositories** — it motivates me!
