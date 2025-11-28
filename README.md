@@ -40,6 +40,16 @@
 | 🌀 **Salesforce Clone** | Pixel-perfect frontend clone | HTML, CSS, JS |
 
 > 🔗 *Check pinned repos on my profile for live links & code.*
+>
+> ## 📌 Popular Repositories
+<p align="left">
+  <a href="https://github.com/ahulkumar1234/Ecommerce-Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahulkumar1234&repo=Ecommerce-Website&theme=tokyonight" /></a>
+  <a href="https://github.com/ahulkumar1234/Gym-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahulkumar1234&repo=Gym-Management-System&theme=tokyonight" /></a>
+</p>
+<p align="left">
+  <a href="https://github.com/ahulkumar1234/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahulkumar1234&repo=Portfolio&theme=tokyonight" /></a>
+  <a href="https://github.com/ahulkumar1234/Salesforce-Clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahulkumar1234&repo=Salesforce-Clone&theme=tokyonight" /></a>
+</p>
 
 ---
 
