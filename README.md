@@ -31,7 +31,7 @@
 
 ---
 
-## 📌 Featured Projects (Pinned Style)
+## 📌 Featured Projects
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🛒 **E-commerce Website** | Full-stack shopping platform | MERN |
