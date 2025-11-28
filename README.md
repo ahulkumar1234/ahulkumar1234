@@ -1,43 +1,50 @@
-# 👋 Hi, I'm Rahul Kumar  
+# 👋 Hi, I'm **Rahul Kumar**
 
-💻 MCA Student | Full Stack Developer | Tech Enthusiast  
-
-Welcome to my GitHub profile!  
-I’m passionate about building web applications, solving real-world problems with technology, and continuously learning new tools.  
+💻 **Full Stack Developer — MERN Stack**  
+🚀 Passionate about building scalable web applications and modern user experiences.
 
 ---
 
-## 🚀 About Me  
-- 🎓 Pursuing **Master of Computer Applications (MCA)** at Arka Jain University  
-- 🌱 Currently learning **MERN Stack** and improving **DSA in JavaScript**  
-- 🔧 Experienced with **HTML, CSS, JavaScript, Java**  
-- 👨‍💻 Worked on projects like **E-commerce Website, Gym Management System, Salesforce Clone, Portfolio Website**  
-- 🎯 Goal: To become a **Full Stack Developer** and crack top IT placements  
+## 🧾 About Me
+- 🎓 MCA Student — *Arka Jain University*
+- 🔥 Specializing in **MERN Stack (MongoDB, Express, React, Node.js)**
+- 💡 Strong in **JavaScript**, **REST APIs**, **Authentication**, **Responsive UI**
+- 🎯 Goal: **Full Stack Developer / MERN Stack Developer**
 
 ---
 
-## 🛠️ Tech Stack  
-**Frontend:** HTML | CSS | JavaScript | React | Bootstrap | Tailwind CSS  
-**Backend:** Node.js | Express.js |
+## 🛠 Tech Stack
+**Frontend:** HTML • CSS • JavaScript • React • Bootstrap • Tailwind CSS  
+**Backend:** Node.js • Express.js  
 **Database:** MongoDB  
-**Others:** Git | GitHub | VS Code  
+**Tools:** Git • GitHub • VS Code • Postman  
 
 ---
 
-## 📌 Featured Projects  
-- 🛒 [E-commerce Website](#) *(MongoDB + Express + React + NodeJs)*  
-- 🏋️ [Gym Management System](#) *(HTML + CSS + JavaScript + Tailwind Css)*  
-- 💼 [Portfolio Website](https://papaya-pasca-9b37c3.netlify.app/) *(HTML, CSS, JS, AOS)*  
-- 🌀 [Salesforce Clone](#) *(Frontend project)*  
+## 📌 Featured Projects
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🛒 **E-commerce Website** | Full-stack shopping platform | MERN |
+| 🏋️ **Gym Management System** | Gym admission + diet & workout plans | HTML, CSS, JS, Tailwind |
+| 💼 **Portfolio Website** | Personal portfolio with AOS animation | HTML, CSS, JS |
+| 🌀 **Salesforce Clone** | Pixel-perfect front-end clone | HTML, CSS, JS |
+
+🔗 *More exciting projects coming soon…*
 
 ---
 
-## 🌐 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/rahul-kumar-3990b618b)  
-- 🌍 [Portfolio](https://ahulkumar1234.github.io/My-Portfolio/)  
-- 🐙 [GitHub](https://github.com/ahulkumar1234)  
-- ✉️ Email: **rahulkumar8340527941@gmail.com**  
+## 📊 GitHub Stats
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahulkumar1234&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahulkumar1234&layout=compact&theme=tokyonight)
 
 ---
 
-⭐️ *If you like my work, feel free to star my repositories and connect with me!* 🚀
+## 🌐 Connect With Me
+🔗 **LinkedIn:** https://www.linkedin.com/in/rahul-kumar-3990b618b  
+🌍 **Portfolio:** https://ahulkumar1234.github.io/My-Portfolio/  
+🐙 **GitHub:** https://github.com/ahulkumar1234  
+📩 **Email:** **rahulkumar8340527941@gmail.com**
+
+---
+
+⭐ *If you like my projects, consider giving a star — it motivates me!* 🚀
